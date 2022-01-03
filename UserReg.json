@@ -1,1 +1,10 @@
+{
+"getOTP": [
+{
+"isMerchant": true,
+"mobileNo": "9871683540",
+"otpUseType": "LOGIN"
+}
+]
 
+}
