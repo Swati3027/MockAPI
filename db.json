@@ -6,5 +6,9 @@
 "otpUseType": "LOGIN"
 }
 ]
-
+"getOTPDetails": [
+{
+"userid": 1
+}  
+]
 }
